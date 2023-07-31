@@ -12,7 +12,7 @@ final _router = GoRouter(
     GoRoute(
       path: '/',
       builder: (context, state) {
-        return Home();
+        return CityWeather();
       },
     ),
 	GoRoute(
