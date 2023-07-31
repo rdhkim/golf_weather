@@ -30,6 +30,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  go_router: ^10.0.0
+  google_maps_flutter: ^2.4.0
+  http: ^1.1.0
+  weather: ^3.1.0
 
 dev_dependencies:
   flutter_test:
